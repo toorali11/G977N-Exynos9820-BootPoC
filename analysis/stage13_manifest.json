@@ -1,0 +1,14 @@
+{
+  "stage": 13,
+  "device": "SM-G977N",
+  "soc": "Exynos 9820",
+  "semantic_bl2_range_full_sboot": "0x0A4000..0x1B5000",
+  "semantic_bl2_size": "0x110000",
+  "qemu_bl2_load_address": "0x8f000000",
+  "uart_status": "0x10440010",
+  "uart_tx": "0x10440020",
+  "stock_candidate": "artifacts/G977N_sboot_bl2_stock.bin",
+  "custom_candidate": "artifacts/G977N_sboot_bl2_custom_v2.bin",
+  "custom_v2_sha256": "60fdf488e45553f85233b5df5f9d6ca53252514fe50d5f66bfbbd1de405ae252",
+  "physical_device_write": false
+}
